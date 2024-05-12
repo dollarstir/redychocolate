@@ -9,12 +9,12 @@
 		document.documentElement.className = 'js';
 	</script>
 
-	<title>Chocolate Gallery | The Chocolate Factory</title>
+	<title>VALENTINES | Rich Eddy Chocolate Company</title>
 <meta name='robots' content='max-image-preview:large' />
 <script type="text/javascript">
 			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='https://fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="The Chocolate Factory &raquo; Feed" href="../feed/index.rss" />
-<link rel="alternate" type="application/rss+xml" title="The Chocolate Factory &raquo; Comments Feed" href="../comments/feed/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="Rich Eddy Chocolate Company &raquo; Feed" href="../feed/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="Rich Eddy Chocolate Company &raquo; Comments Feed" href="../comments/feed/index.rss" />
 <meta content="Divi v.4.23.1" name="generator"/><style id='wp-block-library-theme-inline-css' type='text/css'>.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
 </style>
 <style id='global-styles-inline-css' type='text/css'>body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
@@ -67,21 +67,21 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 .et_pb_slider{position:relative;overflow:hidden}.et_pb_slide{padding:0 6%;background-size:cover;background-position:50%;background-repeat:no-repeat}.et_pb_slider .et_pb_slide{display:none;float:left;margin-right:-100%;position:relative;width:100%;text-align:center;list-style:none!important;background-position:50%;background-size:100%;background-size:cover}.et_pb_slider .et_pb_slide:first-child{display:list-item}.et-pb-controllers{position:absolute;bottom:20px;left:0;width:100%;text-align:center;z-index:10}.et-pb-controllers a{display:inline-block;background-color:hsla(0,0%,100%,.5);text-indent:-9999px;border-radius:7px;width:7px;height:7px;margin-right:10px;padding:0;opacity:.5}.et-pb-controllers .et-pb-active-control{opacity:1}.et-pb-controllers a:last-child{margin-right:0}.et-pb-controllers .et-pb-active-control{background-color:#fff}.et_pb_slides .et_pb_temp_slide{display:block}.et_pb_slides:after{content:"";display:block;clear:both;visibility:hidden;line-height:0;height:0;width:0}@media (max-width:980px){.et_pb_bg_layout_light_tablet .et-pb-controllers .et-pb-active-control{background-color:#333}.et_pb_bg_layout_light_tablet .et-pb-controllers a{background-color:rgba(0,0,0,.3)}.et_pb_bg_layout_light_tablet .et_pb_slide_content{color:#333}.et_pb_bg_layout_dark_tablet .et_pb_slide_description{text-shadow:0 1px 3px rgba(0,0,0,.3)}.et_pb_bg_layout_dark_tablet .et_pb_slide_content{color:#fff}.et_pb_bg_layout_dark_tablet .et-pb-controllers .et-pb-active-control{background-color:#fff}.et_pb_bg_layout_dark_tablet .et-pb-controllers a{background-color:hsla(0,0%,100%,.5)}}@media (max-width:767px){.et-pb-controllers{position:absolute;bottom:5%;left:0;width:100%;text-align:center;z-index:10;height:14px}.et_transparent_nav .et_pb_section:first-child .et-pb-controllers{bottom:18px}.et_pb_bg_layout_light_phone.et_pb_slider_with_overlay .et_pb_slide_overlay_container,.et_pb_bg_layout_light_phone.et_pb_slider_with_text_overlay .et_pb_text_overlay_wrapper{background-color:hsla(0,0%,100%,.9)}.et_pb_bg_layout_light_phone .et-pb-controllers .et-pb-active-control{background-color:#333}.et_pb_bg_layout_dark_phone.et_pb_slider_with_overlay .et_pb_slide_overlay_container,.et_pb_bg_layout_dark_phone.et_pb_slider_with_text_overlay .et_pb_text_overlay_wrapper,.et_pb_bg_layout_light_phone .et-pb-controllers a{background-color:rgba(0,0,0,.3)}.et_pb_bg_layout_dark_phone .et-pb-controllers .et-pb-active-control{background-color:#fff}.et_pb_bg_layout_dark_phone .et-pb-controllers a{background-color:hsla(0,0%,100%,.5)}}.et_mobile_device .et_pb_slider_parallax .et_pb_slide,.et_mobile_device .et_pb_slides .et_parallax_bg.et_pb_parallax_css{background-attachment:scroll}
 .et-pb-arrow-next,.et-pb-arrow-prev{position:absolute;top:50%;z-index:100;font-size:48px;color:#fff;margin-top:-24px;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;opacity:0}.et_pb_bg_layout_light .et-pb-arrow-next,.et_pb_bg_layout_light .et-pb-arrow-prev{color:#333}.et_pb_slider:hover .et-pb-arrow-prev{left:22px;opacity:1}.et_pb_slider:hover .et-pb-arrow-next{right:22px;opacity:1}.et_pb_bg_layout_light .et-pb-controllers .et-pb-active-control{background-color:#333}.et_pb_bg_layout_light .et-pb-controllers a{background-color:rgba(0,0,0,.3)}.et-pb-arrow-next:hover,.et-pb-arrow-prev:hover{text-decoration:none}.et-pb-arrow-next span,.et-pb-arrow-prev span{display:none}.et-pb-arrow-prev{left:-22px}.et-pb-arrow-next{right:-22px}.et-pb-arrow-prev:before{content:"4"}.et-pb-arrow-next:before{content:"5"}.format-gallery .et-pb-arrow-next,.format-gallery .et-pb-arrow-prev{color:#fff}.et_pb_column_1_3 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_4 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_5 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_6 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_2_5 .et_pb_slider:hover .et-pb-arrow-prev{left:0}.et_pb_column_1_3 .et_pb_slider:hover .et-pb-arrow-next,.et_pb_column_1_4 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_5 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_6 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_2_5 .et_pb_slider:hover .et-pb-arrow-next{right:0}.et_pb_column_1_4 .et_pb_slider .et_pb_slide,.et_pb_column_1_5 .et_pb_slider .et_pb_slide,.et_pb_column_1_6 .et_pb_slider .et_pb_slide{min-height:170px}.et_pb_column_1_4 .et_pb_slider:hover .et-pb-arrow-next,.et_pb_column_1_5 .et_pb_slider:hover .et-pb-arrow-next,.et_pb_column_1_6 .et_pb_slider:hover .et-pb-arrow-next{right:0}@media (max-width:980px){.et_pb_bg_layout_light_tablet .et-pb-arrow-next,.et_pb_bg_layout_light_tablet .et-pb-arrow-prev{color:#333}.et_pb_bg_layout_dark_tablet .et-pb-arrow-next,.et_pb_bg_layout_dark_tablet .et-pb-arrow-prev{color:#fff}}@media (max-width:767px){.et_pb_slider:hover .et-pb-arrow-prev{left:0;opacity:1}.et_pb_slider:hover .et-pb-arrow-next{right:0;opacity:1}.et_pb_bg_layout_light_phone .et-pb-arrow-next,.et_pb_bg_layout_light_phone .et-pb-arrow-prev{color:#333}.et_pb_bg_layout_dark_phone .et-pb-arrow-next,.et_pb_bg_layout_dark_phone .et-pb-arrow-prev{color:#fff}}.et_mobile_device .et-pb-arrow-prev{left:22px;opacity:1}.et_mobile_device .et-pb-arrow-next{right:22px;opacity:1}@media (max-width:767px){.et_mobile_device .et-pb-arrow-prev{left:0;opacity:1}.et_mobile_device .et-pb-arrow-next{right:0;opacity:1}}
 </style>
-<link rel='preload' id='divi-dynamic-css' href='https://chocolatefactory.ca/wp-content/et-cache/50196/et-divi-dynamic-50196.css?ver=1712831225' as='style' media='all' onload="this.onload=null;this.rel='stylesheet'" />
+<link rel='preload' id='divi-dynamic-css' href='https://chocolatefactory.ca/wp-content/et-cache/50117/et-divi-dynamic-50117.css?ver=1712831195' as='style' media='all' onload="this.onload=null;this.rel='stylesheet'" />
 <link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Special+Elite:regular%7COswald:200,300,regular,500,600,700%7CSyncopate:regular,700%7CMontserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic%7CNunito:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic&amp;subset=latin,latin-ext&amp;display=swap' type='text/css' media='all' />
-<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="https://chocolatefactory.ca/wp-json/wp/v2/pages/50196" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.html" />
+<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="https://chocolatefactory.ca/wp-json/wp/v2/pages/50117" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.html" />
 <meta name="generator" content="WordPress 6.4.4" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='https://chocolatefactory.ca/?p=50196' />
-<link rel="alternate" type="application/json+oembed" href="https://chocolatefactory.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchocolatefactory.ca%2Fchocolate-gallery%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://chocolatefactory.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchocolatefactory.ca%2Fchocolate-gallery%2F&amp;format=xml" />
+<link rel="canonical" href="index.php" />
+<link rel='shortlink' href='https://chocolatefactory.ca/?p=50117' />
+<link rel="alternate" type="application/json+oembed" href="https://chocolatefactory.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchocolatefactory.ca%2Fvalentines%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://chocolatefactory.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchocolatefactory.ca%2Fvalentines%2F&amp;format=xml" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="icon" href="../wp-content/uploads/2020/02/cropped-chocolate-factory_8646-eff-sq-32x32.jpg" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/2020/02/cropped-chocolate-factory_8646-eff-sq-192x192.jpg" sizes="192x192" />
 <link rel="apple-touch-icon" href="../wp-content/uploads/2020/02/cropped-chocolate-factory_8646-eff-sq-180x180.jpg" />
 <meta name="msapplication-TileImage" content="https://chocolatefactory.ca/wp-content/uploads/2020/02/cropped-chocolate-factory_8646-eff-sq-270x270.jpg" />
-<style id="et-critical-inline-css">#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#822602}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#822602}.footer-widget h4{color:#822602}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#822602}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#822602}a{color:#822602}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#822720}.et_secondary_nav_enabled #page-container #top-header{background-color:#822602!important}#et-secondary-nav li ul{background-color:#822602}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#eda200}.et_search_form_container input::-moz-placeholder{color:#eda200}.et_search_form_container input::-webkit-input-placeholder{color:#eda200}.et_search_form_container input:-ms-input-placeholder{color:#eda200}#top-menu li a{font-size:16px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:16px!important}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#822602}.footer-widget li:before{border-color:#822602}@media only screen and (min-width:981px){#logo{max-height:100%}.et_pb_svg_logo #logo{height:100%}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#ffffff!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#ffffff}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#eda200!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#eda200!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#eda200!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#eda200!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#ffffff!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}	#main-header,#et-top-navigation{font-family:'Special Elite',display}@media (min-width:981px){.page-id-48622 .et_pb_slider .et_pb_slide_description{display:inline-block;padding-right:0;margin-left:50%}}@media (min-width:981px) and (max-width:1024px){.page-id-48622 .et_pb_column_3{padding-left:0px!important}.page-id-48622 .et_pb_column_6{padding-right:0px!important}}.et-cart-info{display:none!important}div.et_pb_section.et_pb_section_0{background-image:linear-gradient(324deg,rgba(255,153,134,0.32) 0%,rgba(255,93,93,0) 55%)!important}.et_pb_section_0{border-radius:0 0 20vw 0;overflow:hidden;max-width:95%}.et_pb_section_0.et_pb_section{padding-top:0px;padding-left:4vw}.et_pb_row_0.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;padding-left:40px!important;margin-right:auto!important;margin-left:auto!important;padding-top:0px;padding-bottom:0px;padding-left:40px}.et_pb_image_0{background-image:linear-gradient(166deg,#ffc984 0%,#db9c03 79%);background-color:#ff5d5d;margin-left:-33vw!important;text-align:left;margin-left:0}.et_pb_text_0.et_pb_text{color:rgba(0,0,0,0.5)!important}.et_pb_text_0{line-height:1.8em;font-weight:600;line-height:1.8em}.et_pb_text_0 h1{font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;font-weight:900;text-transform:uppercase;font-size:120px;color:#7b2920!important;letter-spacing:0.05em;text-shadow:0em 0em 0em rgba(0,0,0,0.4)}.et_pb_image_1 .et_pb_image_wrap img{height:500px;width:auto}.et_pb_image_1 .et_pb_image_wrap{box-shadow:6px 6px 18px 0px rgba(0,0,0,0.3)}.et_pb_image_1{text-align:center}.et_pb_text_1{line-height:1.8em;font-weight:600;line-height:1.8em;margin-bottom:40px!important}.et_pb_text_1 h2{font-family:'Syncopate',Helvetica,Arial,Lucida,sans-serif;font-weight:700;text-transform:uppercase;font-size:44px;color:#7b2920!important;line-height:1.3em}.et_pb_blurb_2.et_pb_blurb .et_pb_module_header,.et_pb_blurb_2.et_pb_blurb .et_pb_module_header a,.et_pb_blurb_0.et_pb_blurb .et_pb_module_header,.et_pb_blurb_0.et_pb_blurb .et_pb_module_header a,.et_pb_blurb_1.et_pb_blurb .et_pb_module_header,.et_pb_blurb_1.et_pb_blurb .et_pb_module_header a{font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;text-transform:uppercase;letter-spacing:2px;line-height:1.6em}.et_pb_blurb_0.et_pb_blurb p,.et_pb_blurb_1.et_pb_blurb p,.et_pb_blurb_2.et_pb_blurb p{line-height:1.6em}.et_pb_blurb_0.et_pb_blurb,.et_pb_blurb_1.et_pb_blurb,.et_pb_blurb_2.et_pb_blurb{font-weight:600;color:rgba(0,0,0,0.5)!important;line-height:1.6em}.et_pb_blurb_0 .et_pb_main_blurb_image .et_pb_only_image_mode_wrap,.et_pb_blurb_0 .et_pb_main_blurb_image .et-pb-icon,.et_pb_blurb_2 .et_pb_main_blurb_image .et_pb_only_image_mode_wrap,.et_pb_blurb_2 .et_pb_main_blurb_image .et-pb-icon,.et_pb_blurb_1 .et_pb_main_blurb_image .et_pb_only_image_mode_wrap,.et_pb_blurb_1 .et_pb_main_blurb_image .et-pb-icon{border-radius:75px 75px 75px 75px;overflow:hidden}.et_pb_blurb_2 .et_pb_main_blurb_image .et_pb_image_wrap,.et_pb_blurb_0 .et_pb_main_blurb_image .et_pb_image_wrap,.et_pb_blurb_1 .et_pb_main_blurb_image .et_pb_image_wrap{width:90px}.et_pb_blurb_1 .et_pb_blurb_content,.et_pb_blurb_0 .et_pb_blurb_content,.et_pb_blurb_2 .et_pb_blurb_content{max-width:100%}.et_pb_image_2 .et_pb_image_wrap{border-radius:16vw 0 0 0;overflow:hidden}.et_pb_image_2{text-align:left;margin-left:0}.et_pb_divider_0,.et_pb_divider_1{margin-top:35px!important;margin-bottom:35px!important}.et_pb_gallery_0.et_pb_gallery{background-color:rgba(0,0,0,0);padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;margin-top:10px!important;margin-right:10px!important;margin-bottom:10px!important;margin-left:10px!important}.et_pb_gallery_0.et_pb_gallery .et_pb_gallery_item{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_column_0{padding-right:40px;padding-bottom:40px}@media only screen and (max-width:980px){.et_pb_section_0.et_pb_section{padding-left:0vw}.et_pb_row_0.et_pb_row{padding-left:0px!important;padding-left:0px!important}.et_pb_image_0 .et_pb_image_wrap img,.et_pb_image_1 .et_pb_image_wrap img,.et_pb_image_2 .et_pb_image_wrap img{width:auto}.et_pb_text_0 h1{font-size:60px}.et_pb_section_1.et_pb_section{padding-top:50px;padding-bottom:0px}.et_pb_text_1 h2{font-size:30px}}@media only screen and (max-width:767px){.et_pb_image_0 .et_pb_image_wrap img,.et_pb_image_1 .et_pb_image_wrap img,.et_pb_image_2 .et_pb_image_wrap img{width:auto}.et_pb_text_0 h1{font-size:40px}.et_pb_text_1 h2{font-size:25px}}</style>
-<link rel="preload" as="style" id="et-core-unified-deferred-50196-cached-inline-styles" href="https://chocolatefactory.ca/wp-content/et-cache/50196/et-core-unified-deferred-50196.min.css?ver=1712831226" onload="this.onload=null;this.rel='stylesheet';" /></head>
-<body data-rsssl=1 class="page-template-default page page-id-50196 et_color_scheme_orange et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter osx et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
+<style id="et-critical-inline-css">#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#822602}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#822602}.footer-widget h4{color:#822602}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#822602}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#822602}a{color:#822602}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#822720}.et_secondary_nav_enabled #page-container #top-header{background-color:#822602!important}#et-secondary-nav li ul{background-color:#822602}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#eda200}.et_search_form_container input::-moz-placeholder{color:#eda200}.et_search_form_container input::-webkit-input-placeholder{color:#eda200}.et_search_form_container input:-ms-input-placeholder{color:#eda200}#top-menu li a{font-size:16px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:16px!important}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#822602}.footer-widget li:before{border-color:#822602}@media only screen and (min-width:981px){#logo{max-height:100%}.et_pb_svg_logo #logo{height:100%}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#ffffff!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#ffffff}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#eda200!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#eda200!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#eda200!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#eda200!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#ffffff!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}	#main-header,#et-top-navigation{font-family:'Special Elite',display}@media (min-width:981px){.page-id-48622 .et_pb_slider .et_pb_slide_description{display:inline-block;padding-right:0;margin-left:50%}}@media (min-width:981px) and (max-width:1024px){.page-id-48622 .et_pb_column_3{padding-left:0px!important}.page-id-48622 .et_pb_column_6{padding-right:0px!important}}.et-cart-info{display:none!important}div.et_pb_section.et_pb_section_0{background-image:linear-gradient(324deg,rgba(255,153,134,0.32) 0%,rgba(255,93,93,0) 55%)!important}.et_pb_section_0{border-radius:0 0 20vw 0;overflow:hidden;max-width:95%}.et_pb_section_0.et_pb_section{padding-top:0px;padding-left:4vw}.et_pb_row_0.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;padding-left:40px!important;margin-right:auto!important;margin-left:auto!important;padding-top:0px;padding-bottom:0px;padding-left:40px}.et_pb_image_0{background-image:linear-gradient(166deg,#ffc984 0%,#db9c03 79%);background-color:#ff5d5d;margin-left:-33vw!important;text-align:left;margin-left:0}.et_pb_text_0.et_pb_text{color:rgba(0,0,0,0.5)!important}.et_pb_text_0{line-height:1.8em;font-weight:600;line-height:1.8em}.et_pb_text_0 h1{font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;font-weight:900;text-transform:uppercase;font-size:120px;color:#7b2920!important;letter-spacing:0.05em;text-shadow:0em 0em 0em rgba(0,0,0,0.4)}.et_pb_text_1.et_pb_text{color:#db9c03!important}.et_pb_text_1{line-height:1.6em;font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;font-size:24px;line-height:1.6em}.et_pb_image_2,.et_pb_image_3,.et_pb_image_1{padding-top:2px;padding-right:2px;padding-bottom:2px;padding-left:2px;margin-top:2px!important;margin-right:2px!important;margin-bottom:2px!important;margin-left:2px!important;text-align:center}.et_pb_image_2 .et_pb_image_wrap,.et_pb_image_3 .et_pb_image_wrap,.et_pb_image_1 .et_pb_image_wrap{box-shadow:6px 6px 18px 0px rgba(0,0,0,0.3)}.et_pb_text_2{line-height:1.8em;font-weight:600;line-height:1.8em;margin-bottom:40px!important}.et_pb_text_2 h2{font-family:'Syncopate',Helvetica,Arial,Lucida,sans-serif;font-weight:700;text-transform:uppercase;font-size:44px;color:#7b2920!important;line-height:1.3em}.et_pb_blurb_1.et_pb_blurb .et_pb_module_header,.et_pb_blurb_1.et_pb_blurb .et_pb_module_header a,.et_pb_blurb_0.et_pb_blurb .et_pb_module_header,.et_pb_blurb_0.et_pb_blurb .et_pb_module_header a,.et_pb_blurb_2.et_pb_blurb .et_pb_module_header,.et_pb_blurb_2.et_pb_blurb .et_pb_module_header a,.et_pb_blurb_3.et_pb_blurb .et_pb_module_header,.et_pb_blurb_3.et_pb_blurb .et_pb_module_header a{font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;text-transform:uppercase;letter-spacing:2px;line-height:1.6em}.et_pb_blurb_2.et_pb_blurb p,.et_pb_blurb_1.et_pb_blurb p,.et_pb_blurb_3.et_pb_blurb p,.et_pb_blurb_0.et_pb_blurb p{line-height:1.6em}.et_pb_blurb_3.et_pb_blurb,.et_pb_blurb_1.et_pb_blurb,.et_pb_blurb_0.et_pb_blurb,.et_pb_blurb_2.et_pb_blurb{font-weight:600;color:rgba(0,0,0,0.5)!important;line-height:1.6em}.et_pb_blurb_3 .et_pb_main_blurb_image .et_pb_only_image_mode_wrap,.et_pb_blurb_3 .et_pb_main_blurb_image .et-pb-icon,.et_pb_blurb_0 .et_pb_main_blurb_image .et_pb_only_image_mode_wrap,.et_pb_blurb_0 .et_pb_main_blurb_image .et-pb-icon,.et_pb_blurb_1 .et_pb_main_blurb_image .et_pb_only_image_mode_wrap,.et_pb_blurb_1 .et_pb_main_blurb_image .et-pb-icon,.et_pb_blurb_2 .et_pb_main_blurb_image .et_pb_only_image_mode_wrap,.et_pb_blurb_2 .et_pb_main_blurb_image .et-pb-icon{border-radius:75px 75px 75px 75px;overflow:hidden}.et_pb_blurb_2 .et_pb_main_blurb_image .et_pb_image_wrap,.et_pb_blurb_3 .et_pb_main_blurb_image .et_pb_image_wrap,.et_pb_blurb_1 .et_pb_main_blurb_image .et_pb_image_wrap,.et_pb_blurb_0 .et_pb_main_blurb_image .et_pb_image_wrap{width:90px}.et_pb_blurb_1 .et_pb_blurb_content,.et_pb_blurb_3 .et_pb_blurb_content,.et_pb_blurb_0 .et_pb_blurb_content,.et_pb_blurb_2 .et_pb_blurb_content{max-width:100%}.et_pb_image_4 .et_pb_image_wrap{border-radius:16vw 0 0 0;overflow:hidden}.et_pb_image_4{text-align:left;margin-left:0}.et_pb_divider_0,.et_pb_divider_1{margin-top:35px!important;margin-bottom:35px!important}.et_pb_gallery_0.et_pb_gallery{background-color:rgba(0,0,0,0);padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;margin-top:10px!important;margin-right:10px!important;margin-bottom:10px!important;margin-left:10px!important}.et_pb_gallery_0.et_pb_gallery .et_pb_gallery_item{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_column_0{padding-right:40px;padding-bottom:40px}.et_pb_text_1.et_pb_module{margin-left:auto!important;margin-right:auto!important}@media only screen and (min-width:981px){.et_pb_text_1{max-width:600px}}@media only screen and (max-width:980px){.et_pb_section_0.et_pb_section{padding-left:0vw}.et_pb_row_0.et_pb_row{padding-left:0px!important;padding-left:0px!important}.et_pb_image_2 .et_pb_image_wrap img,.et_pb_image_3 .et_pb_image_wrap img,.et_pb_image_4 .et_pb_image_wrap img,.et_pb_image_1 .et_pb_image_wrap img,.et_pb_image_0 .et_pb_image_wrap img{width:auto}.et_pb_text_0 h1{font-size:60px}.et_pb_section_1.et_pb_section{padding-top:50px;padding-bottom:0px}.et_pb_text_2 h2{font-size:30px}}@media only screen and (max-width:767px){.et_pb_image_0 .et_pb_image_wrap img,.et_pb_image_1 .et_pb_image_wrap img,.et_pb_image_2 .et_pb_image_wrap img,.et_pb_image_3 .et_pb_image_wrap img,.et_pb_image_4 .et_pb_image_wrap img{width:auto}.et_pb_text_0 h1{font-size:40px}.et_pb_text_1{font-size:18px}.et_pb_text_2 h2{font-size:25px}}</style>
+<link rel="preload" as="style" id="et-core-unified-deferred-50117-cached-inline-styles" href="https://chocolatefactory.ca/wp-content/et-cache/50117/et-core-unified-deferred-50117.min.css?ver=1712831196" onload="this.onload=null;this.rel='stylesheet';" /></head>
+<body data-rsssl=1 class="page-template-default page page-id-50117 et_color_scheme_orange et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter osx et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
 	<div id="page-container">
 
 					<div id="top-header">
@@ -89,19 +89,19 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 
 			
 				<div id="et-info">
-									<span id="et-info-phone">(519) 284-3572</span>
+									<span id="et-info-phone">619-240-4437</span>
 				
-									<a href="mailto:info@chocolatefactory.ca"><span id="et-info-email">info@chocolatefactory.ca</span></a>
+									<a href="mailto:info@richeddychocolatecompany.com"><span id="et-info-email">info@richeddychocolatecompany.com</span></a>
 				
 				<ul class="et-social-icons">
 
 	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/The-Chocolate-Factory-441643873026816/" class="icon">
+		<a href="https://www.facebook.com/" class="icon">
 			<span>Facebook</span>
 		</a>
 	</li>
 	<li class="et-social-icon et-social-instagram">
-		<a href="https://www.instagram.com/chocolatefactory_stmaryslondon/" class="icon">
+		<a href="https://www.instagram.com/" class="icon">
 			<span>Instagram</span>
 		</a>
 	</li>
@@ -119,12 +119,12 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 								<ul class="et-social-icons">
 
 	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/The-Chocolate-Factory-441643873026816/" class="icon">
+		<a href="https://www.facebook.com/" class="icon">
 			<span>Facebook</span>
 		</a>
 	</li>
 	<li class="et-social-icon et-social-instagram">
-		<a href="https://www.instagram.com/chocolatefactory_stmaryslondon/" class="icon">
+		<a href="https://www.instagram.com/" class="icon">
 			<span>Instagram</span>
 		</a>
 	</li>
@@ -145,20 +145,20 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 			<div class="container clearfix et_menu_container">
 							<div class="logo_container">
 					<span class="logo_helper"></span>
-					<a href="../index.html">
-						<img src="../wp-content/uploads/2018/01/chocolate-factory-logo.png" width="250" height="159" alt="The Chocolate Factory" id="logo" data-height-percentage="100" />
+					<a href="../index.php">
+						<img src="../wp-content/uploads/2018/01/chocolate-factory-logo.png" width="250" height="159" alt="Rich Eddy Chocolate Company" id="logo" data-height-percentage="100" />
 					</a>
 				</div>
 							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
 											<nav id="top-menu-nav">
-						<ul id="top-menu" class="nav"><li id="menu-item-48694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-48694"><a href="../index.html">HOME</a></li>
-<li id="menu-item-50332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50332"><a href="#">SEASONAL SPECIALS</a>
+						<ul id="top-menu" class="nav"><li id="menu-item-48694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-48694"><a href="../index.php">HOME</a></li>
+<li id="menu-item-50332" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-50332"><a href="#">SEASONAL SPECIALS</a>
 <ul class="sub-menu">
-	<li id="menu-item-49879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49879"><a href="../easter/index.html">EASTER</a></li>
-	<li id="menu-item-50131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50131"><a href="../valentines/index.html">VALENTINES</a></li>
+	<li id="menu-item-49879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49879"><a href="../easter/index.php">EASTER</a></li>
+	<li id="menu-item-50131" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-50117 current_page_item menu-item-50131"><a href="index.php" aria-current="page">VALENTINES</a></li>
 </ul>
 </li>
-<li id="menu-item-50375" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-50196 current_page_item menu-item-50375"><a href="index.html" aria-current="page">CHOCOLATES</a></li>
+<li id="menu-item-50375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50375"><a href="../chocolate-gallery/index.php">CHOCOLATES</a></li>
 <li id="menu-item-48693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48693"><a href="#">CORPORATE GIFTS</a></li>
 </ul>						</nav>
 					
@@ -179,7 +179,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 
 
 			
-				<article id="post-50196" class="post-50196 page type-page status-publish hentry">
+				<article id="post-50117" class="post-50117 page type-page status-publish hentry">
 
 				
 					<div class="entry-content">
@@ -227,7 +227,13 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="et_pb_text_inner"><h1 style="text-align: center;"><span style="color: #800000;">ASSORTED CHOCOLATES</span></h1></div>
+				<div class="et_pb_text_inner"><h1 style="text-align: center;"><span style="color: #800000;">Valentines</span></h1></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Available Yearly For Valentine&#8217;s Season<br /><span style="color: #800000;">From our London and St Marys Locations </span></p></div>
 			</div>
 			</div>
 				
@@ -245,7 +251,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_row et_pb_row_2">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
 				
 				
 				
@@ -255,63 +261,9 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<a href="" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div></span></a>
+				<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg" alt="" title="Chocolate Factory-Valentines3-sq" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="wp-image-48755" /></span></a>
 			</div>
-			</div>
-				
-				
-				
-				
-			</div><div class="et_pb_row et_pb_row_3">
-				<div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><h2>CHOCOLATES</h2></div>
-			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="620" height="620" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8614-sq.jpg" alt="" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8614-sq.jpg 620w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8614-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8614-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8614-sq-600x600.jpg 600w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8614-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-48765" /></span></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Chocolate favourites</span></h4>
-						<div class="et_pb_blurb_description"><p>For all occasions</p></div>
-					</div>
-				</div>
-			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="620" height="620" src="../wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg" alt="" srcset="../wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg 620w, ../wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-300x300.jpg 300w, ../wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-100x100.jpg 100w, ../wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-600x600.jpg 600w, ../wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-48804" /></span></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Gift Wrapped </span></h4>
-						<div class="et_pb_blurb_description"><p>Chocolate Gifts</p></div>
-					</div>
-				</div>
-			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="620" height="620" src="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg" alt="" srcset="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg 620w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-300x300.jpg 300w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-100x100.jpg 100w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-600x600.jpg 600w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-48841" /></span></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Made with Love</span></h4>
-						<div class="et_pb_blurb_description"><p>For your loved ones</p></div>
-					</div>
-				</div>
-			</div>
-			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
 				
 				
 				
@@ -321,7 +273,97 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="620" height="620" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8630-sm.jpg" alt="" title="the chocolate factory - Rice Krispie" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8630-sm.jpg 620w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8630-sm-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8630-sm-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8630-sm-600x600.jpg 600w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8630-sm-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48767" /></span>
+				<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg" alt="" title="Chocolate Factory-Valentines_00-eff-sq" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="wp-image-48753" /></span></a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3">
+				
+				
+				
+				
+				<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg" alt="" title="Chocolate Factory-Valentines3-sq" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="wp-image-48755" /></span></a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>VALENTINES</h2></div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq.jpg" alt="" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-48756" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Valentines Happy Days</span></h4>
+						<div class="et_pb_blurb_description"><p>Chocolate favourites</p></div>
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq.jpg" alt="" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-48757" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Gift wrapped with love</span></h4>
+						<div class="et_pb_blurb_description"><p>Chocolate gift bars and sweets</p></div>
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg" alt="" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-48753" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Valentines Hearts</span></h4>
+						<div class="et_pb_blurb_description"><p>Custom made &#8211; heart delights</p></div>
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_3  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg" alt="" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-48755" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>For one or many</span></h4>
+						<div class="et_pb_blurb_description"><p>Gift wrapped for your loved ones</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="480" height="640" src="https://chocolatefactory.ca/wp-content/uploads/2021/02/Chocolate-Factory-Valentines2-re.jpg" alt="" title="Chocolate Factory-Valentines2-re" srcset="https://chocolatefactory.ca/wp-content/uploads/2021/02/Chocolate-Factory-Valentines2-re.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2021/02/Chocolate-Factory-Valentines2-re-225x300.jpg 225w" sizes="(max-width: 480px) 100vw, 480px" class="wp-image-50121" /></span>
 			</div>
 			</div>
 				
@@ -329,87 +371,87 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 			</div><div class="et_pb_row et_pb_row_4">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
 				
 				
-				<div class="et_pb_module et_pb_divider_0 et_pb_space et_pb_divider_hidden"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_divider_0 et_pb_space et_pb_divider_hidden"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				
 				
 				<div class="et_pb_text_inner"><h1 style="text-align: center;"><strong>CLICK ON THE IMAGES TO VIEW FULL SIZE</strong></h1></div>
 			</div><div class="et_pb_module et_pb_divider_1 et_pb_space et_pb_divider_hidden"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_gallery et_pb_gallery_0 et_animated  et_pb_bg_layout_light et_pb_gallery_grid">
-				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="100"><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_0">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="50"><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_0">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-400x284.jpg" srcset="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48841" />
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq.jpg" title="Chocolate Factory-Valentines4-sq">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines4-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48756" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_1">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="../wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq-400x284.jpg" srcset="../wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48828" />
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg" title="Chocolate Factory-Valentines3-sq">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines3-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48755" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_2">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8646-eff.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8646-eff-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8646-eff.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8646-eff-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50346" />
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2021/02/chocolate-factory50272_n.jpg" title="chocolate factory50272_n">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2021/02/chocolate-factory50272_n-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2021/02/chocolate-factory50272_n.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2021/02/chocolate-factory50272_n-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50141" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_3">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8614.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8614-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8614.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8614-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50347" />
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg" title="Chocolate Factory-Valentines_00-eff-sq">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48753" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_4">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8630.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8630-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8630.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8630-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50348" />
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines2-512.jpg" title="Chocolate Factory-Valentines2-512">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines2-512-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines2-512.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines2-512-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48743" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_5">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8637.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8637-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8637.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8637-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50349" />
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq.jpg" title="Chocolate Factory-Valentines5-sq">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines5-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48757" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_6">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8640.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8640-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8640.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8640-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50350" />
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_0-eff.jpg" title="Chocolate Factory-Valentines_0-eff">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_0-eff-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_0-eff.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_0-eff-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48754" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_7">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8644.jpg" title="the chocolate factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8644-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8644.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8644-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50351" />
+					<a href="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg" title="Rich Eddy Chocolate Company">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-400x284.jpg" srcset="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48841" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_8">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5167-Edit.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5167-Edit-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5167-Edit.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5167-Edit-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50202" />
+					<a href="../wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq.jpg" title="Rich Eddy Chocolate Company">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq-400x284.jpg" srcset="../wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/02/chocolate-factory_8646-eff-sq-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-48828" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_9">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-400g-_5158.jpg" title="The Chocolate Factory">
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-400g-_5158.jpg" title="Rich Eddy Chocolate Company">
 					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-400g-_5158-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-400g-_5158.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-400g-_5158-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-49850" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_10">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-200-g_5145.jpg" title="The Chocolate Factory">
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-200-g_5145.jpg" title="Rich Eddy Chocolate Company">
 					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-200-g_5145-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-200-g_5145.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-assorted-200-g_5145-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-49848" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_11">
 				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-Smoothies-24_5161.jpg" title="The Chocolate Factory">
+					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-Smoothies-24_5161.jpg" title="Rich Eddy Chocolate Company">
 					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-Smoothies-24_5161-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-Smoothies-24_5161.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-Smoothies-24_5161-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-49857" />
 					<span class="et_overlay"></span>
 				</a>
@@ -417,300 +459,6 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				<div class='et_pb_gallery_image landscape'>
 					<a href="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-15-Smoothies_5146.jpg" title="Mint Flavoured Smoothies">
 					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-15-Smoothies_5146-400x284.jpg" alt="Smoothies 15 - Chocolate Factory" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-15-Smoothies_5146.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2020/04/chocolate-factory-15-Smoothies_5146-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-49854" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_13">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5161.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5161-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5161.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5161-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50281" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_14">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5173.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5173-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5173.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-24_5173-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50282" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_15">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-300g_5169-Edit.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-300g_5169-Edit-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-300g_5169-Edit.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothies-300g_5169-Edit-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50283" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_16">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5158.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5158-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5158.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5158-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50272" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_17">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5152.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5152-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5152.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-400g-_5152-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50271" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_18">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-400g_5170.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-400g_5170-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-400g_5170.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-400g_5170-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50270" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_19">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-200-g_5145.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-200-g_5145-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-200-g_5145.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-assorted-200-g_5145-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50269" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_20">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-15-Smoothies_5146.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-15-Smoothies_5146-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-15-Smoothies_5146.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-15-Smoothies_5146-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50268" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_21">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_assorted-200-g-5144.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_assorted-200-g-5144-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_assorted-200-g-5144.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_assorted-200-g-5144-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50267" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_22">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-800g_5177-Edit.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-800g_5177-Edit-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-800g_5177-Edit.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Assorted-800g_5177-Edit-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50273" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_23">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5185.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5185-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5185.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5185-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50205" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_24">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5183-Edit.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5183-Edit-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5183-Edit.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5183-Edit-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50204" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_25">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5164-Edit.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5164-Edit-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5164-Edit.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5164-Edit-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50201" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_26">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5162-Edit.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5162-Edit-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5162-Edit.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5162-Edit-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50200" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_27">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5326.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5326-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5326.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5326-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50251" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_28">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5317.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5317-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5317.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5317-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50250" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_29">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5271.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5271-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5271.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5271-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50234" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_30">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5265.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5265-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5265.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5265-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50233" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_31">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5262.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5262-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5262.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5262-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50232" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_32">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5257.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5257-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5257.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5257-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50231" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_33">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5306.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5306-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5306.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5306-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50248" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_34">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5315.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5315-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5315.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5315-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50249" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_35">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5302.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5302-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5302.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5302-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50247" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_36">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5299.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5299-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5299.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5299-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50245" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_37">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5297.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5297-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5297.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5297-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50244" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_38">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5294.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5294-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5294.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5294-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50243" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_39">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5292.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5292-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5292.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5292-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50242" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_40">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5290.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5290-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5290.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5290-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50241" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_41">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothie-35g_5203.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothie-35g_5203-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothie-35g_5203.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory-Smoothie-35g_5203-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50280" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_42">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5249.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5249-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5249.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5249-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50228" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_43">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5248.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5248-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5248.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5248-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50227" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_44">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5245.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5245-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5245.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5245-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50226" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_45">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5243.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5243-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5243.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5243-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50225" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_46">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5242.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5242-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5242.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5242-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50224" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_47">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5240.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5240-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5240.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5240-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50223" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_48">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5239.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5239-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5239.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5239-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50222" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_49">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5237.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5237-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5237.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5237-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50221" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_50">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5235.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5235-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5235.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5235-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50220" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_51">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5234.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5234-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5234.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5234-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50219" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_52">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5231.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5231-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5231.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5231-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50218" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_53">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5230.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5230-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5230.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5230-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50217" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_54">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5228.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5228-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5228.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5228-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50216" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_55">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5225.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5225-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5225.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5225-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50214" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_56">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5285.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5285-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5285.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5285-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50240" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_57">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5284.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5284-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5284.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5284-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50239" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_58">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5281.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5281-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5281.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5281-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50238" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_59">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5279.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5279-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5279.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5279-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50237" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_60">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5275.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5275-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5275.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5275-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50236" />
-					<span class="et_overlay"></span>
-				</a>
-				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_61">
-				<div class='et_pb_gallery_image landscape'>
-					<a href="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5272.jpg" title="The Chocolate Factory">
-					<img loading="lazy" decoding="async" width="400" height="284" src="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5272-400x284.jpg" srcset="https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5272.jpg 479w, https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_5272-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-50235" />
 					<span class="et_overlay"></span>
 				</a>
 				</div></div></div><div class="et_pb_gallery_pagination"></div></div>
@@ -730,19 +478,19 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_row et_pb_row_5">
-				<div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough">
 				
 				
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_dark">
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_dark">
 				
 				
 				
 				
-				<div class="et_pb_text_inner"><h2>Chocolates</h2></div>
+				<div class="et_pb_text_inner"><h2>Valentines Sweets</h2></div>
 			</div>
-			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
 				
 				
 				
@@ -754,25 +502,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 			</div><div class="et_pb_row et_pb_row_6 et_pb_equal_columns">
-				<div class="et_pb_column et_pb_column_1_2 et_pb_column_9 et_pb_section_parallax  et_pb_css_mix_blend_mode_passthrough">
-				<span class="et_parallax_bg_wrap"><span
-						class="et_parallax_bg"
-						style="background-image: url(https://chocolatefactory.ca/wp-content/uploads/2022/03/chocolate-factory_8646-header-2022.jpg);"
-					></span><span
-						class="et_parallax_gradient"
-						style="background-image: linear-gradient( 160deg, #ddd0c1 18%, rgba(221,208,193,0) 88% );"
-					></span></span>
-				
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_dark">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><h3>Something for everyone!</h3></div>
-			</div>
-			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
 				
 				
 				
@@ -782,13 +512,25 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="et_pb_text_inner"><h2><strong>Smoothies &amp; Truffles</strong></h2></div>
-			</div><div class="et_pb_module et_pb_image et_pb_image_3">
+				<div class="et_pb_text_inner"><h3>Valentine Novelties</h3></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
 				
 				
-				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="620" height="620" src="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg" alt="" title="the chocolate factory" srcset="../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq.jpg 620w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-300x300.jpg 300w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-100x100.jpg 100w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-600x600.jpg 600w, ../wp-content/uploads/2020/02/chocolate-factory_8626-eff-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48841" /></span>
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><strong>Valentines  Chocolate Hearts</strong></h2></div>
+			</div><div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="480" height="480" src="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg" alt="" title="Chocolate Factory-Valentines_00-eff-sq" srcset="https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq.jpg 480w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-300x300.jpg 300w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-100x100.jpg 100w, https://chocolatefactory.ca/wp-content/uploads/2020/02/Chocolate-Factory-Valentines_00-eff-sq-150x150.jpg 150w" sizes="(max-width: 480px) 100vw, 480px" class="wp-image-48753" /></span>
 			</div>
 			</div>
 				
@@ -819,68 +561,61 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_row et_pb_row_7 et_pb_row_fullwidth et_animated et_pb_equal_columns et_pb_gutters1">
-				<div class="et_pb_column et_pb_column_1_2 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
 				
 				
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_dark">
+				<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_dark">
 				
 				
 				
 				
 				<div class="et_pb_text_inner"><h2>St. Marys Store</h2></div>
-			</div><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_dark">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><h4>166 Queens Street<br />St. Marys, Ontario<br />N4x 1b2</h4>
-<p>Tel/fax : 519-284-3572<br />info@chocolatefactory.ca</p></div>
 			</div><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_dark">
 				
 				
 				
 				
+				<div class="et_pb_text_inner"><h4>166 Queen Street<br />St. Marys, Ontario<br />N4x 1b2</h4>
+<p>Tel/fax : 619-240-4437</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
 				<div class="et_pb_text_inner"><h4>Monday &#8211; Friday</h4>
-<p>10:00 AM &#8211; 5:30 PM</p>
+<p>10:00 AM &#8211; 5.30 PM</p>
 <h4>Saturday</h4>
 <p>10 AM &#8211; 5 PM</p>
-<h4>Sunday</h4>
+<h4>Sunday:</h4>
 <p>11 AM &#8211; 4 PM</p>
-<h4></h4>
-<h4>EXTENDED HOURS FOR SEASONAL OCCASIONS<br />
-PLEASE PHONE FOR DETAILS</h4></div>
+<h4>EXTENDED HOURS FOR SEASONAL OCCASIONS<br />PLEASE PHONE FOR DETAILS</h4></div>
 			</div>
-			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_dark">
+				<div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_dark">
 				
 				
 				
 				
 				<div class="et_pb_text_inner"><h2>london covent garden market</h2></div>
-			</div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_dark">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><h4>130 King street<br />
-london, ontario<br />
-n6a 1c5</h4>
-<p>tel : 519-663-5787</div>
 			</div><div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_dark">
 				
 				
 				
 				
-				<div class="et_pb_text_inner"><h4>mon-thu : 8am &#8211; 7pm<br />
-Friday : 8am &#8211; 7.30pm<br />
-Saturday : 8am &#8211; 6pm<br />
-sunday : 11am &#8211; 4pm</h4></div>
+				<div class="et_pb_text_inner"><h4>130 King street<br />london, ontario<br />n6a 1c5</h4>
+<p>tel : 619-240-4437</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4>Monday &#8211; Saturday 8 AM &#8211; 6 PM<br />Sunday 11 AM &#8211; 4 PM</h4></div>
 			</div>
 			</div>
 				
@@ -911,12 +646,12 @@ sunday : 11am &#8211; 4pm</h4></div>
 				<ul class="et-social-icons">
 
 	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/The-Chocolate-Factory-441643873026816/" class="icon">
+		<a href="https://www.facebook.com/" class="icon">
 			<span>Facebook</span>
 		</a>
 	</li>
 	<li class="et-social-icon et-social-instagram">
-		<a href="https://www.instagram.com/chocolatefactory_stmaryslondon/" class="icon">
+		<a href="https://www.instagram.com/" class="icon">
 			<span>Instagram</span>
 		</a>
 	</li>
@@ -950,7 +685,7 @@ jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
 var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"https:\/\/chocolatefactory.ca\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/chocolatefactory.ca\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/chocolatefactory.ca\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"1f9d05a202","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"c0f18fa1d2","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"50196","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/chocolatefactory.ca\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#822602","waypoints_options":[]};
+var et_pb_custom = {"ajaxurl":"https:\/\/chocolatefactory.ca\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/chocolatefactory.ca\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/chocolatefactory.ca\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"1f9d05a202","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"c0f18fa1d2","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"50117","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/chocolatefactory.ca\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#822602","waypoints_options":[]};
 var et_pb_box_shadow_elements = [];
 /* ]]> */
 </script>
